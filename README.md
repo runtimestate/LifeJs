@@ -3,4 +3,4 @@ LifeJs
 
 JavaScript UI framework
 
-»ùÓÚ JavaScript µÄ¿ªÔ´ UI ¿â
+åŸºäº JavaScript çš„å¼€æº UI åº“ã€‚
