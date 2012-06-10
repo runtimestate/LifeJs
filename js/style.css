@@ -1,0 +1,47 @@
+.LifeGrid .dataGridMeta{
+    line-height: 22px;
+}
+.LifeGrid .dataGridMeta .title{
+    font-size: 13px;
+    font-weight: bold;
+}
+.LifeGrid .dataGridMeta .filter input{
+    margin: 0 4px;
+    padding: 1px;
+    border: 1px solid #ccc;
+}
+.LifeGrid table{
+    font-size: 12px;
+    border-collapse: collapse;
+}
+.LifeGrid div.dataGridDiv{
+    border: 1px solid #999;
+}
+.LifeGrid table.dataGrid{
+    border-collapse: separate;
+    width: 100%;
+}
+.LifeGrid table.dataGrid th{
+    text-align: center;
+    background: #ddd;
+    height: 50px;
+    padding: 1px;
+    border: none;
+}
+.LifeGrid table.dataGrid td{
+    padding: 2px;
+    border: none;
+}
+.LifeGrid table.dataGrid tr.odd{
+    background: #fff;
+}
+.LifeGrid table.dataGrid tr.even{
+    background: #eee;
+}
+.LifeGrid table.dataGrid tr.marked{
+    background: #ee9;
+}
+.LifeGrid table.dataGrid tr:hover,
+.LifeGrid table.dataGrid tr.hover{
+    background: #9cf;
+}
